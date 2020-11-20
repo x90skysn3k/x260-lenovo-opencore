@@ -41,6 +41,7 @@ This repo contains the files to install macOS on the Lenovo X260 family
 - [x] Intel Ethernet port
 - [x] Internal camera (including Facetime)
 - [x] Trackpad (gestures work but not the trackpad click. tap to click works.)
+- [x] Sound and Mic Realtek Audio ALC293
 - [x] Shutdown / Reboot 
 - [x] Keyboard (incuding all fn Keys)
 - [x] Wi-Fi & Bluetooth (including Apple services)
@@ -50,5 +51,4 @@ This repo contains the files to install macOS on the Lenovo X260 family
 # What's not working ⚠️
 - [x] Sleep / Wake (lid sleep and lid wake)
 - [x] Trackpoint and physical buttons
-- [x] Sound at the moment
-- [x] SD Card Reader (v2.2 works but still a bit unstable)
+- [x] SD Card Reader
