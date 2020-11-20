@@ -46,10 +46,9 @@ This repo contains the files to install macOS on the Lenovo X260 family
 - [x] Wi-Fi & Bluetooth (including Apple services)
 - [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
 - [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
-- [x] SD Card Reader (v2.2 works but still a bit unstable)
 
 # What's not working ⚠️
 - [x] Sleep / Wake (lid sleep and lid wake)
 - [x] Trackpoint and physical buttons
 - [x] Sound at the moment
-
+- [x] SD Card Reader (v2.2 works but still a bit unstable)
