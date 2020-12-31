@@ -3,7 +3,7 @@ This repo contains the files to install macOS on the Lenovo X260 family
 
 
 # Update History
-- [x] macOS 11.0.1
+- [x] macOS 11.1 - Big Sur
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
