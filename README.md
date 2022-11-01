@@ -1,9 +1,9 @@
-# Lenovo-X260-Hackintosh-BigSur-OpenCore-0.6.3
+# Lenovo-X260-Hackintosh-BigSur-OpenCore-0.8.5
 This repo contains the files to install macOS on the Lenovo X260 family
 
 
 # Update History
-- [x] macOS 11.1 - Big Sur
+- [x] macOS 13.0 - Ventura
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
@@ -12,7 +12,7 @@ This repo contains the files to install macOS on the Lenovo X260 family
 - <b>GPU</b>: Intel HD Graphics 520
 - <b>RAM</b>: 16 GB 2400MHz DDR4
 - <b>Screen</b>: 12.5" FHD (1920x1080) IPS
-- <b>Wi-Fi</b>: Intel 8620
+- <b>Wi-Fi</b>: Intel 8260
 - <b>Camera</b>: 720p
 - <b>Battery</b>: Dual Battery
 
@@ -40,15 +40,13 @@ This repo contains the files to install macOS on the Lenovo X260 family
 - [x] HDMI port (including HDMI Audio)
 - [x] Intel Ethernet port
 - [x] Internal camera (including Facetime)
-- [x] Trackpad (gestures work but not the trackpad click. tap to click works.)
+- [x] Trackpad
 - [x] Sound and Mic Realtek Audio ALC293
 - [x] Shutdown / Reboot 
 - [x] Keyboard (incuding all fn Keys)
-- [x] Wi-Fi & Bluetooth (including Apple services)
+- [x] Wi-Fi & Bluetooth (including Apple services, Airdrop, etc)
 - [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
 - [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
 
 # What's not working ⚠️
-- [x] Sleep / Wake (lid sleep and lid wake)
-- [x] Trackpoint and physical buttons
-- [x] SD Card Reader
+- Nothing that I know of
